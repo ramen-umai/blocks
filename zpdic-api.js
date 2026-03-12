@@ -14,6 +14,7 @@ class zpdicApi {
         color2: "#FF8C00",
         color3: "#FF4500",
         menuIconURI: "https://zpdic.ziphil.com/static/favicon.ico",
+        docsURI: "https://ramen-umai.github.io/blocks/zpdic-api-doc.html",
   
         blocks: [
   
@@ -312,4 +313,5 @@ class zpdicApi {
   
   }
   
+
   Scratch.extensions.register(new zpdicApi());
